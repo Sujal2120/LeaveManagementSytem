@@ -8,7 +8,6 @@ import java.util.Map;
 import java.util.Set;
 import java.util.Scanner;
 
-// Single-file version: only this class is public.
 public class LeaveManagementSystem {
     private final Scanner sc = new Scanner(System.in);
 
